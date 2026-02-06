@@ -1,4 +1,6 @@
-# 🏠 Affordable Housing Personalised Recommendation System
+# 🏠 Urban-Match  
+AI-Powered Personalized Housing Recommendation System
+
 
 A smart recommendation system that suggests housing options based on user preferences like BHK, gym, swimming pool, location, and RERA status. It uses a trained neural network and custom logic to sort the most suitable homes for the user.
 
